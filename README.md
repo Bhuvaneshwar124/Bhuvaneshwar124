@@ -1,41 +1,45 @@
 # Hi there, I'm Bhuvaneshwar S 👋
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?Bhuvaneshwar124=Bhuvaneshwar124&color=blue&style=flat-square)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Bhuvaneshwar124&color=blue&style=flat-square)
 
 ---
 
 ## 🚀 About Me
 - 🌏 From **Tindivanam, Tamil Nadu**
-- 🎓 Passionate about **Technology, Education, and Innovation**
-- 🛠️ Building **FutureMinds Tech Club** to empower students
+- 💻 Developer | Technical Enthusiast
+- 🔧 I enjoy building secure and efficient software and exploring cloud computing. 
+- 🎓 Passionate about **Technology and Innovation**
 
 ---
 
 ## 🌟 Skills & Technologies
-- **Programming Languages:** Python, JavaScript, C/C++
-- **Web Development:** HTML, CSS, React.js, Node.js
-- **Cloud Computing:** Azure, AWS Basics
-- **Cybersecurity:** Penetration Testing, Incident Response
-- **Tools:** Git, Docker, VS Code, Postman
-- **Database:** MySQL, MongoDB
-- **Others:** Microsoft Power Platform, APIs, REST
 
+### Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Web Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
+
+### Other Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  
 ---
 
-## 📈 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Bhuvaneshwar124=Bhuvaneshwar124&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Bhuvaneshwar124=Bhuvaneshwar124&layout=compact&theme=radical)
-
----
-
-## 🌍 Connect with Me 
-- 🐦 [Twitter](https://twitter.com/YourTwitterHandle)  
+## 🌍 Connect with Me
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 🐦 [Twitter](https://twitter.com/YourTwitterHandle])  
 - 📫 [Email](mailto:bhuvaneshwars12@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/)  
-- 📸 [Instagram](https://instagram.com/YourInstagramHandle)
-
-
----
+- 💼 [LinkedIn](www.linkedin.com/in/bhuvaneshwar-s-b98604291)  
 
 ## 💬 Fun Fact
 - 💡 I believe **learning is a never-ending process**.

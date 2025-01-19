@@ -36,7 +36,7 @@
 ---
 
 ## 🌍 Connect with Me
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 🌐 [Portfolio]()  
 - 🐦 [Twitter](https://twitter.com/YourTwitterHandle])  
 - 📫 [Email](mailto:bhuvaneshwars12@gmail.com)  
 - 💼 [LinkedIn](www.linkedin.com/in/bhuvaneshwar-s-b98604291)  

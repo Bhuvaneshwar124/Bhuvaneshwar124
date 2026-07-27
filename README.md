@@ -67,32 +67,70 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 
 ---
 
-# Tech Stack
+<h2 align="center"> Tech Stack</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,sql" alt="Languages">
-</p>
+<table align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend">
-</p>
+<tr>
+<td align="center" width="220">
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend">
-</p>
+###  Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="Database">
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github" alt="Cloud and DevOps">
-</p>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma" alt="Tools">
-</p>
+<td align="center" width="220">
 
+###  Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+###  Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark"/>
+
+</td>
+
+<td align="center">
+
+###  Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+###  Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github&theme=dark"/>
+
+</td>
+
+<td align="center">
+
+###  Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma&theme=dark"/>
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # Currently Learning

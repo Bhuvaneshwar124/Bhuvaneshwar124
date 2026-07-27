@@ -109,13 +109,8 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 # Currently Learning
 
 - Advanced Java
-- Spring Boot Microservices
-- React Ecosystem
 - Data Structures and Algorithms
 - System Design
-- Azure Cloud
-- AWS Cloud
-- Artificial Intelligence
 - Generative AI
 
 ---

@@ -14,7 +14,7 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 - Currently improving DSA, Backend Engineering and Cloud Architecture
 - Open to Software Engineering Internships
 - Email: **bhuvaneshwars12@gmail.com**
-- Portfolio: **https://yourportfolio.com**
+- Portfolio: **https://github.com/Bhuvaneshwar124**
 - LinkedIn: **https://www.linkedin.com/in/bhuvaneshwar-s-b98604291/**
 - Fun Fact: I love building products that solve real-world problems.
 

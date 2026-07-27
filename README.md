@@ -20,7 +20,7 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwar124&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats-seven-kappa-23.vercel.app/api?username=Bhuvaneshwar124&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshwar124&theme=radical&hide_border=true" alt="GitHub streak">
 </div>
 

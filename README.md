@@ -80,40 +80,28 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 
 # Tech Stack
 
-## Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,sql" alt="Languages">
 </p>
 
-## Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" alt="Frontend">
+<img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend">
 </p>
 
-## Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend">
+<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend">
 </p>
-
-## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="Database">
 </p>
 
-## Cloud and DevOps
-
 <p>
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github" alt="Cloud and DevOps">
 </p>
 
-## Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" alt="Tools">
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma" alt="Tools">
 </p>
 
 ---

@@ -6,9 +6,6 @@
 I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys building scalable software, AI-powered applications, and modern web platforms. I love solving real-world problems through Java, Spring Boot, React, Cloud, and Artificial Intelligence.
 </p>
 
-- B.Tech in Computer Science and Business Systems
-- Passionate about Software Engineering and Full Stack Development
-- Learning Azure Cloud, AWS and System Design
 - Exploring Artificial Intelligence and Generative AI
 - Building real-world applications with Java, Spring Boot and React
 - Currently improving DSA, Backend Engineering and Cloud Architecture

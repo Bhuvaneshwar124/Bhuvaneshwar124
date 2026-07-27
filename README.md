@@ -17,31 +17,29 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 
 ---
 
-# GitHub Statistics
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshwar124&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
-
----
-
-# Most Used Languages
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhuvaneshwar124&theme=tokyonight" alt="Repos per language">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwar124&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshwar124&theme=radical&hide_border=true" alt="GitHub streak">
+</div>
 
 ---
 
-# Contribution Graph
+<h2 align="center">🔥 Language & Coding Activity</h2>
 
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvaneshwar124&theme=tokyo-night&hide_border=true" alt="Contribution graph">
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhuvaneshwar124&theme=radical" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhuvaneshwar124&theme=radical" alt="Most commit language">
+</div>
 
 ---
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvaneshwar124&theme=redical&hide_border=true" alt="Contribution graph">
+</p>
 
 ---
 
@@ -52,11 +50,11 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
   <a href="https://github.com/Bhuvaneshwar124/prompt-vault">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" />
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
       <source media="(prefers-color-scheme: light)"
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&show_owner=true&description_lines_count=2" />
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=radical&hide_border=true&show_owner=true&description_lines_count=2"
         alt="Prompt Vault" />
     </picture>
   </a>
@@ -64,11 +62,11 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
   <a href="https://github.com/Bhuvaneshwar124/codesage-ai">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" />
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
       <source media="(prefers-color-scheme: light)"
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&show_owner=true&description_lines_count=2" />
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=radical&hide_border=true&show_owner=true&description_lines_count=2"
         alt="CodeSage AI" />
     </picture>
   </a>

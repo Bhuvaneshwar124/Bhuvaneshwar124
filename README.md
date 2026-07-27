@@ -1,77 +1,163 @@
-# Hi there, I'm Bhuvaneshwar S 👋
+# Hi, I'm Bhuvaneshwar S
 
-<p align="left">
-  <a href="https://github.com/Bhuvaneshwar124">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&vCenter=true&width=600&lines=Student+learning+AI,+ML+(RAG,+MCP,+LLM,+Agent);Java+Developer;Technical+Enthusiast" alt="Typing SVG" />
-  </a>
+<h3>Software Developer | Full Stack Developer | AI Enthusiast | Cloud Learner</h3>
+
+<p>
+I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys building scalable software, AI-powered applications, and modern web platforms. I love solving real-world problems through Java, Spring Boot, React, Cloud, and Artificial Intelligence.
 </p>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Bhuvaneshwar124&color=blue&style=flat-square)
+- B.Tech in Computer Science and Business Systems
+- Passionate about Software Engineering and Full Stack Development
+- Learning Azure Cloud, AWS and System Design
+- Exploring Artificial Intelligence and Generative AI
+- Building real-world applications with Java, Spring Boot and React
+- Currently improving DSA, Backend Engineering and Cloud Architecture
+- Open to Software Engineering Internships
+- Email: **bhuvaneshwars12@gmail.com**
+- Portfolio: **https://yourportfolio.com**
+- LinkedIn: **https://www.linkedin.com/in/bhuvaneshwar-s-b98604291/**
+- Fun Fact: I love building products that solve real-world problems.
 
 ---
 
-## 🚀 About Me
-- 🌏 From **Tindivanam, Tamil Nadu**
-- 🎓 Student learning **AI, ML (RAG, MCP, LLM, Agent)**
-- 💻 Developer | Technical Enthusiast
-- 🔧 I enjoy building secure and efficient software and exploring cloud computing. 
-- 💡 Passionate about **Technology and Innovation**
+# GitHub Statistics
 
-<!-- Animated Snake Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhuvaneshwar124/Bhuvaneshwar124/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhuvaneshwar124/Bhuvaneshwar124/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhuvaneshwar124/Bhuvaneshwar124/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌟 Skills & Technologies
-
-### Programming Languages & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/AI_&_ML-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="AI & ML"/>
-</p>
-
-### Web Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
-</p>
-
-### Other Skills  
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwar124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshwar124&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwar124&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshwar124&theme=radical" alt="GitHub Streak" height="150"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwar124&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhuvaneshwar124&theme=tokyonight" alt="Repos per language">
 </p>
 
 ---
 
-## 🌍 Connect with Me
-- 🌐 [Portfolio]()  
-- 🐦 [Twitter](https://twitter.com/YourTwitterHandle])  
-- 📫 [Email](mailto:bhuvaneshwars12@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/bhuvaneshwar-s-b98604291)  
+# Contribution Graph
 
-## 💬 Fun Fact
-- 💡 I believe **learning is a never-ending process**.
-- 🧩 My favorite tech quote: *"Code is like humor. When you have to explain it, it’s bad."*
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvaneshwar124&theme=tokyo-night&hide_border=true" alt="Contribution graph">
+</p>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+# GitHub Trophies
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshwar124&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub trophies">
+</p>
+
+---
+
+# Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| Prompt Vault | AI Prompt Management Platform with authentication, categories and search | React, Spring Boot, PostgreSQL |
+| Hotel Booking System | Full Stack Hotel Reservation Platform | Java, Spring Boot, MySQL |
+| AI Projects | AI and Machine Learning Applications | Python, TensorFlow, OpenCV |
+| Portfolio Website | Personal Developer Portfolio | React, TypeScript |
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,sql" alt="Languages">
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" alt="Frontend">
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend">
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="Database">
+</p>
+
+## Cloud and DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github" alt="Cloud and DevOps">
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" alt="Tools">
+</p>
+
+---
+
+# Currently Learning
+
+- Advanced Java
+- Spring Boot Microservices
+- React Ecosystem
+- Data Structures and Algorithms
+- System Design
+- Azure Cloud
+- AWS Cloud
+- Artificial Intelligence
+- Generative AI
+
+---
+
+# Certifications
+
+- Microsoft Azure Fundamentals
+- Microsoft Azure AI Fundamentals
+- Oracle Cloud Infrastructure Foundations
+- Oracle AI Foundations
+- AWS Cloud Foundations
+- GitHub Foundations
+
+---
+
+# Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/bhuvaneshwar-s-b98604291/">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:bhuvaneshwars12@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+</a>
+<a href="https://github.com/Bhuvaneshwar124">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+</a>
+</p>
+
+---
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Bhuvaneshwar124&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Bhuvaneshwar124/Bhuvaneshwar124/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
+</p>
+
+---
+
+# Quote
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+If you like my work, consider starring my repositories.

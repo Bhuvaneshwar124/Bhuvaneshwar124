@@ -131,42 +131,66 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 </tr>
 
 </table>
----
 
-# Currently Learning
+<h2 align="center">Currently Learning</h2>
 
-- Advanced Java
-- Data Structures and Algorithms
-- System Design
-- Generative AI
+<div align="center">
 
----
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="380" alt="Currently Learning"/>
 
-# Certifications
+<br><br>
 
-- Microsoft Azure Fundamentals
-- Microsoft Azure AI Fundamentals
-- Oracle Cloud Infrastructure Foundations
-- Oracle AI Foundations
-- AWS Cloud Foundations
-- GitHub Foundations
+<b>Java • Spring Boot • DSA • System Design • GenAI</b>
 
----
+</div>
 
-# Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/bhuvaneshwar-s-b98604291/">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Oracle-Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Oracle-AI_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+✨ Click any badge to view the credential.
+</p>
+---
+
+<h2 align="center">🤝 Let's Build Something Amazing Together</h2>
+
+<p align="center">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/bhuvaneshwar-s-b98604291)">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:bhuvaneshwars12@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Bhuvaneshwar124">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+to+Internships;Building+Java+%26+AI+Projects;Always+Learning+Something+New;Let's+Connect+%F0%9F%9A%80" />
+</p>
 ---
 
 <p>

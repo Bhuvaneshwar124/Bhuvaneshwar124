@@ -29,7 +29,6 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 # Most Used Languages
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwar124&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhuvaneshwar124&theme=tokyonight" alt="Repos per language">
 </p>
 
@@ -43,22 +42,39 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 
 ---
 
-# GitHub Trophies
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshwar124&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub trophies">
-</p>
 
 ---
 
-# Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| Prompt Vault | AI Prompt Management Platform with authentication, categories and search | React, Spring Boot, PostgreSQL |
-| Hotel Booking System | Full Stack Hotel Reservation Platform | Java, Spring Boot, MySQL |
-| AI Projects | AI and Machine Learning Applications | Python, TensorFlow, OpenCV |
-| Portfolio Website | Personal Developer Portfolio | React, TypeScript |
+<div width="100%" align="center">
+
+  <a href="https://github.com/Bhuvaneshwar124/prompt-vault">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&show_owner=true&description_lines_count=2" />
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2"
+        alt="Prompt Vault" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/Bhuvaneshwar124/codesage-ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&show_owner=true&description_lines_count=2" />
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2"
+        alt="CodeSage AI" />
+    </picture>
+  </a>
+
+</div>
+
 
 ---
 

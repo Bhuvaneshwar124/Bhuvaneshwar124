@@ -45,34 +45,25 @@ I'm a passionate <b>Computer Science and Business Systems</b> student who enjoys
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<div width="100%" align="center">
+<div align="center">
 
   <a href="https://github.com/Bhuvaneshwar124/prompt-vault">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&show_owner=true&description_lines_count=2" />
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=radical&hide_border=true&show_owner=true&description_lines_count=2"
-        alt="Prompt Vault" />
-    </picture>
+    <img
+      src="https://github-readme-stats-seven-kappa-23.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=prompt-vault&theme=radical&hide_border=true&show_owner=true&description_lines_count=2"
+      alt="Prompt Vault"
+      width="400"
+    />
   </a>
 
   <a href="https://github.com/Bhuvaneshwar124/codesage-ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&show_owner=true&description_lines_count=2" />
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=radical&hide_border=true&show_owner=true&description_lines_count=2"
-        alt="CodeSage AI" />
-    </picture>
+    <img
+      src="https://github-readme-stats-seven-kappa-23.vercel.app/api/pin/?username=Bhuvaneshwar124&repo=codesage-ai&theme=radical&hide_border=true&show_owner=true&description_lines_count=2"
+      alt="CodeSage AI"
+      width="400"
+    />
   </a>
 
 </div>
-
 
 ---
 
